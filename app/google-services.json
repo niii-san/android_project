@@ -1,15 +1,14 @@
 {
   "project_info": {
     "project_number": "1007746925100",
-    "project_id": "book-app-d3f01",
-    "storage_bucket": "book-app-d3f01.appspot.com"
+    "project_id": "book-app-d3f01"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:1007746925100:android:a4400204119038bfd98789",
         "android_client_info": {
-          "package_name": "com.fahad.list_food"
+          "package_name": "com.nishan.list_food"
         }
       },
       "oauth_client": [],
